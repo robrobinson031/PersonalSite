@@ -1,0 +1,10 @@
+.headerBackground{
+	height: 90vh;
+	background-image: url(../images/forest-header-img.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+.smallText {
+	font-size:.5em;
+}
